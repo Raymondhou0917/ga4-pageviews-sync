@@ -1,3 +1,5 @@
+[繁體中文](README.zh-TW.md) | English
+
 # GA4 Pageviews Sync
 
 **Replace Post Views Counter with real Google Analytics 4 data.**
