@@ -161,7 +161,7 @@ GPLv2 or later. See [LICENSE](LICENSE).
 
 - Personal site & blog: [raymondhouch.com](https://raymondhouch.com/)
 - Online courses (digital workflow & AI): [academy.lifehacker.tw](https://academy.lifehacker.tw/)
-- YouTube: [柚智夫妻](https://www.youtube.com/@yuzhi-couple)
+- YouTube: [柚智夫妻](https://www.youtube.com/c/yuiraymond)
 - Newsletter: [雷蒙週報](https://raymondhouch.com/newsletter/)
 
 Built with [Claude Code](https://claude.ai/claude-code).

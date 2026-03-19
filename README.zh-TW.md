@@ -161,7 +161,7 @@ GPLv2 或更高版本。見 [LICENSE](LICENSE)。
 
 - 個人網站 & 部落格：[raymondhouch.com](https://raymondhouch.com/)
 - 線上課程（數位工作術 & AI 應用）：[academy.lifehacker.tw](https://academy.lifehacker.tw/)
-- YouTube 頻道：[柚智夫妻](https://www.youtube.com/@yuzhi-couple)
+- YouTube 頻道：[柚智夫妻](https://www.youtube.com/c/yuiraymond)
 - 電子報：[雷蒙週報](https://raymondhouch.com/newsletter/)
 
 使用 [Claude Code](https://claude.ai/claude-code) 開發。
