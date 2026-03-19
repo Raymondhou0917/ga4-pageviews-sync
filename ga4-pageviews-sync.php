@@ -4,8 +4,8 @@
  * Plugin URI:  https://github.com/Raymondhou0917/ga4-pageviews-sync
  * Description: Sync real pageview data from Google Analytics 4 into post_meta. Zero frontend JS, zero page-load DB writes. A lightweight replacement for Post Views Counter.
  * Version:     1.0.0
- * Author:      Raymond Hou
- * Author URI:  https://raymondhouch.com
+ * Author:      Raymond Hou (雷蒙三十)
+ * Author URI:  https://raymondhouch.com/
  * License:     GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Requires PHP: 8.0
