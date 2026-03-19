@@ -132,7 +132,7 @@ class GA4_Pageviews_Sync {
                         'Content-Type'  => 'application/json',
                     ],
                     'body'    => wp_json_encode([
-                        'dateRanges' => [['startDate' => '365daysAgo', 'endDate' => 'today']],
+                        'dateRanges' => [['startDate' => '2020-01-01', 'endDate' => 'today']],
                         'dimensions' => [['name' => 'pagePath']],
                         'metrics'    => [['name' => 'screenPageViews']],
                         'limit'      => $limit,

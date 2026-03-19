@@ -40,7 +40,7 @@ GA4 doesn't have this problem — it counts via a client-side analytics tag that
 WP Cron (daily)
   → PHP creates JWT from Service Account credentials
   → Exchanges JWT for Google access token
-  → Calls GA4 Data API (screenPageViews by pagePath, last 365 days)
+  → Calls GA4 Data API (screenPageViews by pagePath, all time)
   → Maps pagePath → post slug → post ID
   → Writes to post_meta ('ga4_pageviews')
 ```
@@ -133,7 +133,7 @@ $popular = new WP_Query([
 Once per day at 4:00 AM server time. You can also trigger a manual sync from the settings page.
 
 **Q: What date range does it use?**
-Last 365 days by default. This gives you a rolling annual view count.
+All time — from when your GA4 property started collecting data. This gives you cumulative lifetime pageviews for each post.
 
 **Q: Will it slow down my site?**
 No. Unlike Post Views Counter, this plugin does absolutely nothing on the frontend. No JS, no CSS, no DB writes. The sync runs as a background cron task.
