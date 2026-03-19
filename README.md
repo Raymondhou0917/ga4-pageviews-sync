@@ -155,4 +155,13 @@ GPLv2 or later. See [LICENSE](LICENSE).
 
 ---
 
-Built with [Claude Code](https://claude.ai/claude-code) by [Raymond Hou](https://raymondhouch.com).
+## Author
+
+**Raymond Hou (侯智薰)** — solopreneur, digital workflow expert, and AI tools educator based in Taiwan.
+
+- Personal site & blog: [raymondhouch.com](https://raymondhouch.com/)
+- Online courses (digital workflow & AI): [academy.lifehacker.tw](https://academy.lifehacker.tw/)
+- YouTube: [柚智夫妻](https://www.youtube.com/@yuzhi-couple)
+- Newsletter: [雷蒙週報](https://raymondhouch.com/newsletter/)
+
+Built with [Claude Code](https://claude.ai/claude-code).

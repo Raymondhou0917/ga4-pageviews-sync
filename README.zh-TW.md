@@ -155,4 +155,13 @@ GPLv2 或更高版本。見 [LICENSE](LICENSE)。
 
 ---
 
-使用 [Claude Code](https://claude.ai/claude-code) 開發，by [Raymond Hou](https://raymondhouch.com)。
+## 作者
+
+**雷蒙（侯智薰）** — 超級個體實踐者、數位工作術與 AI 工具教育者，品牌「雷蒙三十」創辦人。
+
+- 個人網站 & 部落格：[raymondhouch.com](https://raymondhouch.com/)
+- 線上課程（數位工作術 & AI 應用）：[academy.lifehacker.tw](https://academy.lifehacker.tw/)
+- YouTube 頻道：[柚智夫妻](https://www.youtube.com/@yuzhi-couple)
+- 電子報：[雷蒙週報](https://raymondhouch.com/newsletter/)
+
+使用 [Claude Code](https://claude.ai/claude-code) 開發。
